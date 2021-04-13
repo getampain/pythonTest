@@ -24,5 +24,3 @@ def printFunction_2():
 if __name__ == "__main__":
     printFunction_1()
     printFunction_2()
-
-
